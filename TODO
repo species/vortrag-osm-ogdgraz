@@ -4,8 +4,8 @@ dauer:
 
     themenfaden
         ich
-            opendatagraz.at
             osm
+            opendatagraz.at
         osm
         ogd Graz
             versionierung!
@@ -20,3 +20,34 @@ max 10 Folien!
     Fokus OSM
         why OSM
 
+    0 - Titel
+    1 - myself
+    2 - whatis osm
+        wer steht hinter osm? ~NOK
+        geschichte ~NOK
+    3    warum osm? !!!
+
+    4,5,6,7 OGD-Anwendungen
+    8 - github versionierung
+
+je eine 
+    hausnummern - wir haben sie durchsuchbar gemacht!
+        hm - 8300 haben source: data.graz.gv.at aktuell gesetzt
+        -> grob geschätzt 30.000 fehlende Hausnummern bei OGD-Start (27.7.2012)
+            komplett Ende 2013 -> 1.5Jahre für 30K
+        was wird damit gemacht?:
+            Routing bei BCG 
+            Routing auf Auto-navis
+    haltestellen
+        ~8000 / 16000 eingetragen
+    qualitätssicherung
+        Apotheken / Bibliotheken/ Bildungsstandorte / Kinder_Jugendorganisationen / Oeffentliche-Brunnen / Problemstoff-Sammelstellen / Strassenverzeichnis / Fahrradständer
+            Beispiel: Rückfluss der Daten bei Straßenverzeichnis
+    baumkarte
+        nur schnell screenshot zeigen
+            
+
+            
+
+    9 - hilfe/stammtisch
+    10 - danke - ev. als 11.
